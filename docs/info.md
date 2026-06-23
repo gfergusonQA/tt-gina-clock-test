@@ -9,11 +9,11 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+This is a test for the Verilog Template workflow from TinyTapeout's Github Actions. 
 
 ## How to test
 
-Explain how to use your project
+testing testing testing testing
 
 ## External hardware
 
